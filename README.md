@@ -6,4 +6,4 @@ CLone the repository
 Can be directly run from Visual studio
 
 
-![alt text](Capture.jpg)
+![RUN](Capture.jpg)
